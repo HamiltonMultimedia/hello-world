@@ -2,6 +2,11 @@
 
 Hello World,
 
-I'm a React-Native, React Web, Node.js and JavaScript developer. 
+I'm a Systems Administrator, Software Engineer and Developer.
 
-Here is where I store ideas, resources, or even share and discuss things with others.
+I work with many languages right now I mostly write Python code.
+
+For projects I use Django, Kivy, React.js, React-Native, Node.js, & Flutter frameworks. 
+
+Here is where I store ideas, resources, or even share and discuss things. 
+
