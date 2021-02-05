@@ -16,3 +16,5 @@ Here is where I record ideas, resources, share and discuss things.
 
 As technology is constantly evolving at a very rapid pace, 
 to adapt I must also dedicate myself to learning constantly.
+
+Lately I've been researching the changes and updates to Python and React.
