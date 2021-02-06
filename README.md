@@ -2,7 +2,7 @@
 
 Hello World,
 
-I'm a Systems Administrator, Software Engineer and Developer.
+I'm a Systems Architech, Syytems Administrator, Software Engineer and Developer.
 
 I work with many languages right now I mostly write Python code.
 
