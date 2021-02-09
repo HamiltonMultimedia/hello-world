@@ -19,4 +19,4 @@ to adapt I must also dedicate myself to learning constantly.
 
 Lately I've been researching the changes and updates to Python and React.
 
-Now I'm putting stronger focus on security.
+Now I'm putting a stronger focus on security features in applications.
