@@ -20,3 +20,5 @@ to adapt I must also dedicate myself to learning constantly.
 Lately I've been researching the changes and updates to Python and React.
 
 Now I'm putting a stronger focus on security features in applications.
+
+One attractive security feature I've seen is End-to-End encryption. 
