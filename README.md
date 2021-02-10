@@ -21,4 +21,6 @@ Lately I've been researching the changes and updates to Python and React.
 
 Now I'm putting a stronger focus on security features in applications.
 
-One attractive security feature I've seen is End-to-End encryption.  
+One attractive security feature I've seen is End-to-End encryption. 
+
+This requires 2 keys, one public and one private. One end creates, encrypts and sends the message while the other receives and decrypts it. This maintains that the message is encryted from End-toEnd.
