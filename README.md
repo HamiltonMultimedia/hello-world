@@ -23,4 +23,6 @@ Now I'm putting a stronger focus on security features in applications.
 
 One attractive security feature I've seen is End-to-End encryption. 
 
-This requires 2 keys, one public and one private. One end creates, encrypts and sends the message while the other receives and decrypts it. This maintains that the message is encryted from End-toEnd.
+This requires 2 keys, one public and one private. One end creates, encrypts and sends the message while the other receives and decrypts it. This maintains that the message is encryted from End-toEnd. 
+
+In addition to encryption I've also been looking into monitoring options and I've found a tutorial which explains how to write a Python port scanning script that reports which ports are open on your system.
