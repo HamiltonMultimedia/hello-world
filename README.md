@@ -2,6 +2,10 @@
 
 Hello World,
 
+Welcome to my "readme file". 
+
+This is where I record ideas, resources, share and discuss things, kinda like a journal.
+
 I'm a Systems Architech, Syytems Administrator, Software Engineer and Developer.
 
 I work with many languages right now I mostly write Python code.
@@ -10,9 +14,7 @@ For projects I use Django, Kivy, React.js, React-Native, Node.js, & Flutter fram
 
 For servers I've used Apache, Nginx, Express.js, and Node.js core module.
 
-For databases I've used MongoDB, MySQL/MariaDB, MSSQL, PostgreSQL and Couchbase. 
-
-Here is where I record ideas, resources, share and discuss things. 
+For databases I've used MongoDB, MySQL/MariaDB, MSSQL, PostgreSQL and Couchbase.  
 
 As technology is constantly evolving at a very rapid pace, 
 to adapt I must also dedicate myself to learning constantly.
