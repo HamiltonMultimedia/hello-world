@@ -6,6 +6,8 @@ Welcome to my "readme file".
 
 This is where I record ideas, resources, share and discuss things, kinda like a journal.
 
+In IT terms you could view this as documentation about me, by me. 
+
 I'm a Systems Architech, Syytems Administrator, Software Engineer and Developer.
 
 I work with many languages right now I mostly write Python code.
