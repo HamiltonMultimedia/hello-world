@@ -27,3 +27,7 @@ This requires 2 keys, one public and one private. One end creates, encrypts and 
 
 In addition to encryption I've also been looking into monitoring options and I've found a tutorial which explains how to write a Python port scanning script that reports which ports are open on your computer.
 
+Open ports can be used as entry points to access your computer and then perform malicious actions. 
+
+The port scanner is meant for users to dicover which ports are open and close them as needed before an attacker exploits them. 
+
