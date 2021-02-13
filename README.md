@@ -37,4 +37,4 @@ The port scanner is meant for users to dicover which ports are open and close th
 
 On the other hand an attacker can use a port scanner to discover which ports are open on your machine and deliver a malicious payload which has potential to perform devastating attacks to your computer.
 
-These days data has become a hot commodity so I'm learning how to harness and secure data in applications. 
+These days data are a hot commodity so I'm learning how to harness and secure data in applications. 
