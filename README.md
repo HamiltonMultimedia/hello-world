@@ -40,3 +40,5 @@ On the other hand an attacker can use a port scanner to discover which ports are
 These days data is a hot commodity so I'm learning how to harness and secure data in applications. 
 
 I am also learning networking and how to connect applications over Wide Area Networks
+
+This is how most applications funtion is the modern computing environment.
