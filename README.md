@@ -41,4 +41,6 @@ These days data is a hot commodity so I'm learning how to harness and secure dat
 
 I am also learning networking and how to connect applications over Wide Area Networks
 
-This is how most applications funtion is the modern computing environment.
+This is how most applications function is the modern computing environment.
+
+Now I'm using a combination of various technologies including Docker and Kubernetes to build a new application which includes networking orchestration. 
