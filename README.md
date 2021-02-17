@@ -44,3 +44,5 @@ I am also learning networking and how to connect applications over Wide Area Net
 This is how most applications function is the modern computing environment.
 
 Now I'm using a combination of various technologies including Docker and Kubernetes to build a new application which includes networking orchestration. 
+
+This also allows for automation of the processes invoving packaging, updating and patching of application components.
