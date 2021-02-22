@@ -58,3 +58,5 @@ I've discovered that I have the desire to learn and understand the whole System 
 In the effort of prviding the best security I can offer in my applications I am planning several learning initiatives that will provide the knowledge necessary for me to create security measures beyond what is "off-the-shelf". I will learn C programming and how it relates to today's programming languages in order to go to a deep level of security implementation. Also I will learn the skills of hacking in order to learn how to defend against offensive hackers.
 
 For my application development purposes I am learning how to construct Data Structures and Algorithms in Python.
+
+I'm also taking some time out to learn Java development deeper and build comprehensive apps with it.
