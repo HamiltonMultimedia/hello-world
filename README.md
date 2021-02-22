@@ -56,3 +56,5 @@ So now we have the microservices all distributed on different computers in vario
 I've discovered that I have the desire to learn and understand the whole System Architecture of apps. I've decided to find a career path to that of a Solutions Architect.
 
 In the effort of prviding the best security I can offer in my applications I am planning several learning initiatives that will provide the knowledge necessary for me to create security measures beyond what is "off-the-shelf". I will learn C programming and how it relates to today's programming languages in order to go to a deep level of security implementation. Also I will learn the skills of hacking in order to learn how to defend against offensive hackers.
+
+For my application development porposes I am learning how to construct Data Structures and Algorithms in Python.
