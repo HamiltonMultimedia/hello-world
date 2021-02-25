@@ -59,4 +59,6 @@ In the effort of prviding the best security I can offer in my applications I am 
 
 For my application development purposes I am learning how to construct Data Structures and Algorithms in Python.
 
-I'm also taking some time out to learn Java development deeper and build comprehensive apps with it. Learning Java better with give me access to using Apache Spark which has Machine Learning algorithms built-in.
+I'm also taking some time out to learn Java development deeper and build comprehensive apps with it. Learning Java better with give me access to using Apache Spark which has Machine Learning algorithms built-in. 
+
+I've discovered that MongoDB offers an Apache Spark connector.
