@@ -62,3 +62,5 @@ For my application development purposes I am learning how to construct Data Stru
 I'm also taking some time out to learn Java development deeper and build comprehensive apps with it. Learning Java better with give me access to using Apache Spark which has Machine Learning algorithms built-in. 
 
 I've discovered that MongoDB offers an Apache Spark connector. Using this connector I plan to provide ML features to many React & React-Native applications. 
+
+I'm feeling like I'll need microservices for this to work efficiently, we shall see.
