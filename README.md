@@ -53,8 +53,8 @@ This also allows for automation of the processes invoving packaging, updating an
 On the topic of orchestration microservices has become a popular concept in the world of app development. 
 
 Prior to this we have what's known as monolithic or legacy app architecture concepts where all the components of the app are housed on the same server all struggling to use the same system's resources at the same time. 
-you could imagin how slow that app would become at scale. 
-So now we have the microservices all distributed on different computers in various locations operating on a Wide Area Network connection that makes it all possible.
+You could imagin how slow that app would become at scale. 
+So now we have the microservices & cloud architectures all distributed on different computers in various locations operating on a Wide Area Network (possibly private) connection that makes it all possible.
 
 I've discovered that I have the desire to learn and understand the whole System Architecture of apps. I've decided to find a career path to that of a Solutions Architect.
 
