@@ -65,4 +65,4 @@ I've discovered that MongoDB offers an Apache Spark connector. Using this connec
 I'm feeling like I'll need microservices for this to work efficiently, we shall see.
 
 Today I've discovered the various methods of handling input in Python classes using 
-bound, unbound and static methods.
+bound, unbound and static methods. This discovery helped me to see the benefits of each and how to use them together.
