@@ -27,15 +27,18 @@ Now I'm putting a stronger focus on security features in applications.
 
 One attractive security feature I've seen is End-to-End encryption. 
 
-This requires 2 keys, one public and one private. One end creates, encrypts and sends the message while the other receives and decrypts it. This maintains that the message is encryted from End-toEnd. 
+This requires 2 keys, one public and one private. One end creates, encrypts and sends the message while the other receives and decrypts it. This maintains that the message is encrypted from End-to-End. 
 
 In addition to encryption I've also been looking into monitoring options and I've found a tutorial which explains how to write a Python port scanning script that reports which ports are open on your computer.
 
 Open ports can be used as entry points to access your computer and then perform malicious actions. 
 
-The port scanner is meant for users to dicover which ports are open and close them as needed before an attacker exploits them. 
+The port scanner is meant for users to discover which ports are open and close them as needed before an attacker exploits them. 
 
 On the other hand an attacker can use a port scanner to discover which ports are open on your machine and deliver a malicious payload which has potential to perform devastating attacks to your computer.
+
+Think of ports like the doors and windows of your home. If an attacker finds your address then they have to find a way inside your home. If you leave your doors or windows open or unlocked this makes it easy for an intruder to find their way in.  
+It's a similar concept with computers and that is what we know as bad "Hacking". There is a concept of good "Hacking" too where you "hack" at a patricular problem to find a solution that works, meaning you try different methods until you find one (or more) that works. This is a special skill that can be used for good or bad "Hacking".
 
 These days data is a hot commodity so I'm learning how to harness and secure data in applications. 
 
