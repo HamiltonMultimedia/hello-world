@@ -69,3 +69,5 @@ I'm feeling like I'll need microservices for this to work efficiently, we shall 
 
 Today I've discovered the various methods of handling input in Python classes using 
 bound, unbound and static methods. This discovery helped me to see the benefits of each and how to use them together to make interactive applications.
+
+Bound methods isolate data from the rest of the application. This mitigates confusion going forward and allows it to process data efficiently.
