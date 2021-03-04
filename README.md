@@ -71,3 +71,5 @@ Today I've discovered the various methods of handling input in Python classes us
 bound, unbound and static methods. This discovery helped me to see the benefits of each and how to use them together to make interactive applications.
 
 Bound methods isolate data from the rest of the application. This mitigates confusion going forward and allows it to process data efficiently.
+
+So I've decided to dig deeper and go beyond the app designer and basic developer skills and take on an even more responsible task which is learning cloud architectures for apps with data algorithms in HPCs.
