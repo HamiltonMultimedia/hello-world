@@ -75,3 +75,5 @@ Bound methods isolate data from the rest of the application. This mitigates conf
 So I've decided to dig deeper and go beyond the app designer and basic developer skills and take on an even more responsible task which is learning cloud architectures for apps with data algorithms in HPCs.
 
 Thus far it's been interesting and fun to apply machine learning algorithms to distributed computing applications. Finding the connectors and connecting them with different frameworks has proved a bit challenging. Yet it's really exciting when it all finally works.
+
+Brushing up on my Networking Fundamentals again. It's amazing to see how tech has changed over the years. 
