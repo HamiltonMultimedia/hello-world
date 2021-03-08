@@ -76,4 +76,4 @@ So I've decided to dig deeper and go beyond the app designer and basic developer
 
 Thus far it's been interesting and fun to apply machine learning algorithms to distributed computing applications. Finding the connectors and connecting them with different frameworks has proved a bit challenging. Yet it's really exciting when it all finally works.
 
-Brushing up on my Networking Fundamentals again. It's amazing to see how tech has changed over the years. 
+Brushing up on my Networking Fundamentals again. It's amazing to see how tech has changed over the years. Re-visiting the OSI model and all it's layers. This action may help me discover new or unusual ways of connecting components of the model.
