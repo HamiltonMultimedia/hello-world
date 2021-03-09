@@ -77,3 +77,5 @@ So I've decided to dig deeper and go beyond the app designer and basic developer
 Thus far it's been interesting and fun to apply machine learning algorithms to distributed computing applications. Finding the connectors and connecting them with different frameworks has proved a bit challenging. Yet it's really exciting when it all finally works.
 
 Brushing up on my Networking Fundamentals again. It's amazing to see how tech has changed over the years. Re-visiting the OSI model and all it's layers. This action may help me discover new or unusual ways of connecting components of the model.
+
+As a Software Development Engineer I've decided to dig a lot deeper this time and really get to understand Networking on a much deeper level. I'm aware of how processes and protocols operate on the seven levels of the OSI model but knowing how the encapsulation methods interact with each other will allow me to make deeper optimizations and implement tighter security methods in my future applications. 
