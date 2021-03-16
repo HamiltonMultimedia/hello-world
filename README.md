@@ -80,4 +80,7 @@ Brushing up on my Networking Fundamentals again. It's amazing to see how tech ha
 
 As a Software Development Engineer I've decided to dig a lot deeper this time and really get to understand Networking on a much deeper level. I'm aware of how processes and protocols operate on the seven levels of the OSI model but knowing how the encapsulation methods interact with each other will allow me to make deeper optimizations and implement tighter security methods in my future applications. 
 
-By focusing on the protocols available I can apply tighter security measures on my apps.
+By focusing on the protocols available I can apply tighter security measures on my apps. 
+
+I'm noticing a restriction on my bandwidth. 
+
