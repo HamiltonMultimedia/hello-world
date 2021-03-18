@@ -83,3 +83,5 @@ As a Software Development Engineer I've decided to dig a lot deeper this time an
 By focusing on the protocols available I can apply tighter security measures on my apps. 
 
 I'm noticing a restriction on my bandwidth. I don't know if it's ISP toggling or a peak hours problem. 
+
+I can't beleieve I forgot to set my usuaal security settings on my machines, welp it's like they say better late than never. I just hope it's not too late. 
