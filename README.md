@@ -85,3 +85,5 @@ By focusing on the protocols available I can apply tighter security measures on 
 I'm noticing a restriction on my bandwidth. I don't know if it's ISP toggling or a peak hours problem. 
 
 I can't beleieve I forgot to set my usuaal security settings on my machines, welp it's like they say better late than never. I just hope it's not too late. 
+
+Now it seems someone is stalking me on LinkedIn. I got a stange request to connect from a user who had zero connections which would have made me his/her/their first connection. Things are getting strange now.
