@@ -96,3 +96,7 @@ I'm set to begin soon.
 I'm really excited about it. 
 I feel like this is the culmination of all my time studying and learning all these technical skills. 
 Now I get to apply them in a role that suits my current skill set that actually helps people achieve their goals at a really high level!  
+
+I'm learning that as I progress in the IT field, I must read and study more. 
+Understanding all these different technologies and how they're implemented together.
+Today, I've read The Practice of Cloud System Administration (DevOps and Practices for Web Services) and Full Stack Serverless (Modern Application Development with React, AWS and GraphQL). 
