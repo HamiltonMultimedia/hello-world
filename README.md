@@ -87,3 +87,12 @@ I'm noticing a restriction on my bandwidth. I don't know if it's ISP toggling or
 I can't beleieve I forgot to set my usuaal security settings on my machines, welp it's like they say better late than never. I just hope it's not too late. 
 
 Now it seems someone is stalking me on LinkedIn. I got a stange request to connect from a user who had zero connections which would have made me his/her/their first connection. Things are getting strange now.
+
+Since then even more people are contacting me on LinkedIn and I'm not sure how I feel about all this new attention. 
+I don't want to be "famous" but yet I still want to help people but I'd much rather do it from "behind the scenes". 
+
+So it's been four days since my last entry. I have been preparing for my new job. 
+I'm set to begin soon. 
+I'm really excited about it. 
+I feel like this is the culmination of all my time studying and learning all these technical skills. 
+Now I get to apply them in a role that suits my current skill set that actually helps people achieve their goals at a really high level!  
