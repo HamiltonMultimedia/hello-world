@@ -100,3 +100,5 @@ Now I get to apply them in a role that suits my current skill set that actually 
 I'm learning that as I progress in the IT field, I must read and study more. 
 Understanding all these different technologies and how they're implemented together.
 Today, I've read The Practice of Cloud System Administration (DevOps and Practices for Web Services) and Full Stack Serverless (Modern Application Development with React, AWS and GraphQL). 
+
+These books alone are enough to build a profitable MVP that is scalable and fault tolerant. 
