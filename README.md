@@ -102,3 +102,5 @@ Understanding all these different technologies and how they're implemented toget
 Today, I've read The Practice of Cloud System Administration (DevOps and Practices for Web Services) and Full Stack Serverless (Modern Application Development with React, AWS and GraphQL). 
 
 These books alone are enough to build a profitable MVP that is scalable and fault tolerant. 
+
+So I'm working on mny Python script library now. Soon I'll have enough scripts to make a module or library.  
