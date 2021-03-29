@@ -104,3 +104,18 @@ Today, I've read The Practice of Cloud System Administration (DevOps and Practic
 These books alone are enough to build a profitable MVP that is scalable and fault tolerant. 
 
 So I'm working on mny Python script library now. Soon I'll have enough scripts to make a module or library.  
+
+Here's a list of steps for Architecting and Engineering Software.
+
+Step 1. Analyze the requirements of the software you want to build.
+        Write them down!
+
+Step 2. Plan the software architecture. 
+        How does everything work together?
+        Which problems could occur?
+        Which libraries and services will you use?
+
+Step 3. Now you can start coding.
+        The quality of your plan will determine the quality of your outcome.
+
+
