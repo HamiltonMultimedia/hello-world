@@ -119,3 +119,4 @@ Step 3. Now you can start coding.
         The quality of your plan will determine the quality of your outcome.
 
 It's been a while since I've been here.
+I'm sorry I've been away for so long.
