@@ -123,3 +123,4 @@ I'm sorry I've been away for so long.
 I really wanted to come and make some new entries.
 I've been putting a lot of time into training lately.
 It's finally paying off.
+I'm realizing this is deep serious work.
