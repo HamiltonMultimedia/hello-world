@@ -124,3 +124,4 @@ I really wanted to come and make some new entries.
 I've been putting a lot of time into training lately.
 It's finally paying off.
 I'm realizing this is deep serious work.
+Well I've always known that.
