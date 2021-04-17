@@ -118,4 +118,4 @@ Step 2. Plan the software architecture.
 Step 3. Now you can start coding.  
         The quality of your plan will determine the quality of your outcome.
 
-
+It's been a while since I've been here.
