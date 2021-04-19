@@ -129,3 +129,4 @@ Well I've always known that.
 With new work comes new rewards.
 With it also comes new responsibilities. 
 I will gain new knowledge, wisdom and power from the experience. 
+New capabilities from learned processes and procedures. 
