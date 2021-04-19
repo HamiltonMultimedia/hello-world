@@ -127,4 +127,5 @@ I'm realizing this is deep serious work.
 Well I've always known that.
 
 With new work comes new rewards.
-With it also comes new responsibilities.
+With it also comes new responsibilities. 
+I will gain new knowledge, wisdom and power from the experience. 
