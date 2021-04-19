@@ -130,3 +130,4 @@ With new work comes new rewards.
 With it also comes new responsibilities. 
 I will gain new knowledge, wisdom and power from the experience. 
 New capabilities from learned processes and procedures. 
+I have doubters already, they don't know that they will soon join the long list of previous doubters whou are now regretful that they ever doubted me.
