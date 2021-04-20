@@ -132,4 +132,5 @@ I will gain new knowledge, wisdom and power from the experience.
 New capabilities from learned processes and procedures. 
 I have doubters already, they don't know that they will soon join the long list of previous doubters who are now regretful that they ever doubted me.
 
-If people knew the challenges I've had to overcome to get to this point 
+If people only knew the challenges I've had to overcome to get to this point 
+maybe they'd understand why I'm the way I am. 
