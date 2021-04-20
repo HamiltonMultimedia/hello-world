@@ -134,3 +134,4 @@ I have doubters already, they don't know that they will soon join the long list 
 
 If people only knew the challenges I've had to overcome to get to this point 
 maybe they'd understand why I'm the way I am. 
+I'm not asking for sympathy but maybe a bit of empathy. 
