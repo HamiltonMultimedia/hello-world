@@ -136,3 +136,4 @@ If people only knew the challenges I've had to overcome to get to this point
 maybe they'd understand why I'm the way I am. 
 I'm not asking for sympathy but maybe a bit of empathy. 
 It was a constant struggle for me to maintain my mental health. 
+For a long time I was tempted to things that were against my desired outcome.
