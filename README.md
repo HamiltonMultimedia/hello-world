@@ -138,3 +138,6 @@ I'm not asking for sympathy but maybe a bit of empathy.
 It was a constant struggle for me to maintain my mental health. 
 For a long time I was tempted to things that were against my desired outcome.
 That was not aligned with my goals.
+I really want to thank my past self for staying committed and keeping me safe and out of harm's way.
+
+Now I;m filling in a lot gaps in my learning of IT.
