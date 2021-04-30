@@ -153,4 +153,4 @@ There will be times when you want to quit.
 It will get overwhelming but you must maintain a sane mind and positive mentality.
 I know that's easier said than done.
 If you don't then ask yourself "what's the alternative?"
-
+Do you risk losing everything you've worked for?
