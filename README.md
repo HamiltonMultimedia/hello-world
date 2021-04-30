@@ -154,3 +154,5 @@ It will get overwhelming but you must maintain a sane mind and positive mentalit
 I know that's easier said than done.
 If you don't then ask yourself "what's the alternative?"
 Do you risk losing everything you've worked for?
+Remember you're closer to your goal than from when you started so why stop now?
+Please keep going!
