@@ -146,3 +146,5 @@ I mean I understood it before but now it's all becoming practical.
 For example the concept of a shared file system.
 Two nodes serving as separate components of a large application.
 Sharing a File System provides the convience of Users finding the same files.
+
+Hello world, I'm back and better than ever!
