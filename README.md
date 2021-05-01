@@ -158,3 +158,4 @@ Remember you're closer to your goal than from when you started so why stop now?
 Please keep going!
 
 The further I go the more convoluted it gets.
+People around me are behaving kind strange.
