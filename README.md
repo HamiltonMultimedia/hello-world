@@ -163,3 +163,5 @@ I'm not quite sure why.
 I relly try to maintain a positive attitude and outlook on life.
 Maybe that's what's confusing to them?
 That's ok they don't have to understand me.
+I'm fine with being peculiar.
+My only concern is they respect me.
