@@ -171,3 +171,4 @@ Since then I've thought why should I concern myself with disrespectful people wh
 It seems like a lost cause. 
 To demand respect from people who don't understand or care to.
 This is a waste of time, energy and possibly money.
+To serve time in jail, or court because someone wants to be disrespectful?
