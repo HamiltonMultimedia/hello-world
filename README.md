@@ -170,3 +170,4 @@ I've taken time to reflect on my earlier thoughts.
 Since then I've thought why should I concern myself with disrespectful people who are not trying to understand me?
 It seems like a lost cause. 
 To demand respect from people who don't understand or care to.
+This is a waste of time, energy and possibly money.
