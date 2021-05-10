@@ -172,3 +172,4 @@ It seems like a lost cause.
 To demand respect from people who don't understand or care to.
 This is a waste of time, energy and possibly money.
 To serve time in jail, or court because someone wants to be disrespectful?
+This is a distraction from my goals and ambitions.
