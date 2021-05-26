@@ -158,13 +158,13 @@ Remember you're closer to your goal than from when you started so why stop now?
 Please keep going!
 
 The further I go the more convoluted it gets.
-People around me are behaving kind strange.
+People around me are behaving kind of strange.
 I'm not quite sure why.
-I relly try to maintain a positive attitude and outlook on life.
+I really try to maintain a positive attitude and outlook on life.
 Maybe that's what's confusing to them?
 That's ok they don't have to understand me.
 I'm fine with being peculiar.
-My only concern is they respect me.
+My only concern is that they respect me.
 
 I've taken time to reflect on my earlier thoughts.  
 Since then I've thought why should I concern myself with disrespectful people who are not trying to understand me?
@@ -174,3 +174,4 @@ This is a waste of time, energy and possibly money.
 To serve time in jail, or court because someone wants to be disrespectful?
 This is a distraction from my goals and ambitions.
 I draw the line in attacks, I will defend myself by any means necessary.
+
