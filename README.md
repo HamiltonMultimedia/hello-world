@@ -177,3 +177,4 @@ I draw the line in attacks, I will defend myself by any means necessary.
 
 I know it's been a while and I'm sorry I left you.
 I've been working really hard to balance my life with my work.
+It's proven to be a challenging thing as I've been forwarned by my colleagues.
