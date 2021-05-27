@@ -187,4 +187,4 @@ Just as i did before.
 I'm doing it again.
 As a great man once said.
 Nothing gets easier.
-you jsut get better at doing it.
+You just get better at doing it.
